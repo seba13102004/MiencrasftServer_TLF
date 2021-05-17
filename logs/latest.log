@@ -127,3 +127,13 @@
 [05:21:45] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
 [05:21:45] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
 [05:21:45] [Server thread/INFO]: /xp -> experience
+[05:21:53] [Server thread/INFO]: Incorrect argument for command
+[05:21:53] [Server thread/INFO]: /xp -help<--[HERE]
+[05:21:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:21:56] [Server thread/INFO]: [A<--[HERE]
+[05:21:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:21:58] [Server thread/INFO]: [A[A<--[HERE]
+[05:22:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:22:01] [Server thread/INFO]: /xp<--[HERE]
+[05:22:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:22:07] [Server thread/INFO]: /xp<--[HERE]
