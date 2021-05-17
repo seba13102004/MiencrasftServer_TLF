@@ -1,0 +1,45 @@
+[00:49:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:49:29] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:49:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:49:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:49:29] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:49:29] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:49:29] [main/INFO]: Reloading ResourceManager: Default
+[00:49:30] [Worker-Main-9/INFO]: Loaded 7 recipes
+[00:49:30] [Worker-Main-9/INFO]: Loaded 927 advancements
+[00:49:30] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[00:49:30] [Server thread/INFO]: Loading properties
+[00:49:30] [Server thread/INFO]: Default game type: SURVIVAL
+[00:49:30] [Server thread/INFO]: Generating keypair
+[00:49:31] [Server thread/INFO]: Starting Minecraft server on *:2777
+[00:49:31] [Server thread/INFO]: Using default channel type
+[00:49:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:49:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:49:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:49:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:49:31] [Server thread/INFO]: Preparing level "world"
+[00:49:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:49:32] [Server thread/INFO]: Preparing spawn area: 0%
+[00:49:32] [Server thread/INFO]: Preparing spawn area: 0%
+[00:49:32] [Server thread/INFO]: Preparing spawn area: 46%
+[00:49:33] [Server thread/INFO]: Time elapsed: 1301 ms
+[00:49:33] [Server thread/INFO]: Done (1.371s)! For help, type "help"
+[00:50:04] [Server thread/INFO]: Tatan[/127.0.0.1:62758] logged in with entity id 81 at (-296.7341427826913, 63.0, 161.52527578834074)
+[00:50:04] [Server thread/INFO]: Tatan joined the game
+[00:50:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:50:19] [Server thread/INFO]: ping<--[HERE]
+[00:50:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:50:33] [Server thread/INFO]: ping 192.168.1.1<--[HERE]
+[00:50:41] [Server thread/INFO]: Stopping the server
+[00:50:42] [Server thread/INFO]: Stopping server
+[00:50:42] [Server thread/INFO]: Saving players
+[00:50:42] [Server thread/INFO]: Saving worlds
+[00:50:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:50:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
