@@ -20,6 +20,9 @@ goto inico
 :uno
 cls
 echo Iniciando Server con 1GB de RAM...
+git add .
+git commit -m "asd"
+git push
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 pause
 exit
@@ -27,6 +30,9 @@ exit
 :dos
 cls
 echo Iniciando Server con 2GB de RAM...
+git add .
+git commit -m "asd"
+git push
 java -Xmx2048M -Xms2048M -jar server.jar nogui
 pause
 exit
@@ -34,6 +40,9 @@ exit
 :cuatro
 cls
 echo Iniciando Server con 4GB de RAM...
+git add .
+git commit -m "asd"
+git push
 java -Xmx4096M -Xms4096M -jar server.jar nogui
 pause
 exit
@@ -41,6 +50,9 @@ exit
 :seis
 cls
 echo Iniciando Server con 6GB de RAM...
+git add .
+git commit -m "asd"
+git push
 java -Xmx6144M -Xms6144M -jar server.jar nogui
 pause
 exit
@@ -48,13 +60,18 @@ exit
 :ocho
 cls
 echo Iniciando Server con 8GB de RAM...
+git add .
+git commit -m "asd"
+git push
 java -Xmx8192M -Xms8192M -jar server.jar nogui
 pause
 exit
 
 :dies
 cls
-echo Iniciando Server con 10GB de RAM...
+echo Iniciando Server con 10GB de RAM...git add .
+git commit -m "asd"
+git push
 java -Xmx10240M -Xms10240M -jar server.jar nogui
 pause
 exit

@@ -42,3 +42,32 @@ java.io.IOException: Controlador no válido
 [16:52:20] [Server thread/INFO]: Tatan joined the game
 [16:52:32] [Server thread/INFO]: Set the time to 0
 [16:53:47] [Server thread/INFO]: Tatan fell from a high place
+[17:05:08] [Server thread/INFO]: Set the time to 0
+[17:05:17] [Server thread/INFO]: Tatan was slain by Zombie
+[17:10:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:10:11] [Server thread/INFO]: k<--[HERE]
+[17:10:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:10:11] [Server thread/INFO]: k<--[HERE]
+[17:10:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:10:11] [Server thread/INFO]: k<--[HERE]
+[17:10:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:10:11] [Server thread/INFO]: k<--[HERE]
+[17:10:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:10:12] [Server thread/INFO]: j<--[HERE]
+[17:10:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:10:14] [Server thread/INFO]: jiknmn<--[HERE]
+[17:10:22] [Server thread/INFO]: Set the time to 0
+[17:27:02] [Server thread/INFO]: Stopping server
+[17:27:02] [Server thread/INFO]: Saving players
+[17:27:02] [Server thread/INFO]: Tatan lost connection: Disconnected
+[17:27:02] [Server thread/INFO]: Tatan left the game
+[17:27:02] [Server thread/INFO]: Saving worlds
+[17:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
