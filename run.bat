@@ -24,8 +24,7 @@ git add .
 git commit -m "asd"
 git push
 java -Xmx1024M -Xms1024M -jar server.jar nogui
-pause
-exit
+goto cerrar
 
 :dos
 cls
@@ -34,8 +33,7 @@ git add .
 git commit -m "asd"
 git push
 java -Xmx2048M -Xms2048M -jar server.jar nogui
-pause
-exit
+goto cerrar
 
 :cuatro
 cls
@@ -44,8 +42,7 @@ git add .
 git commit -m "asd"
 git push
 java -Xmx4096M -Xms4096M -jar server.jar nogui
-pause
-exit
+goto cerrar
 
 :seis
 cls
@@ -54,8 +51,7 @@ git add .
 git commit -m "asd"
 git push
 java -Xmx6144M -Xms6144M -jar server.jar nogui
-pause
-exit
+goto cerrar
 
 :ocho
 cls
@@ -64,14 +60,20 @@ git add .
 git commit -m "asd"
 git push
 java -Xmx8192M -Xms8192M -jar server.jar nogui
-pause
-exit
+goto cerrar
 
 :dies
 cls
-echo Iniciando Server con 10GB de RAM...git add .
+echo Iniciando Server con 10GB de RAM...
+git add .
 git commit -m "asd"
 git push
 java -Xmx10240M -Xms10240M -jar server.jar nogui
+goto cerrar
+
+:cerrar
+git add .
+git commit -m "asd"
+git push
 pause
 exit
