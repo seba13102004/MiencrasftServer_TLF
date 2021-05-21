@@ -8,6 +8,7 @@ echo 4. 6GB
 echo 5. 8GB
 echo 6. 10GB
 set /p opcion=Escribir numero de la opcion:
+git pull
 if %opcion%==1 goto uno
 if %opcion%==2 goto dos
 if %opcion%==3 goto cuatro
@@ -21,40 +22,52 @@ goto inico
 cls
 echo Iniciando Server con 1GB de RAM...
 java -Xmx1024M -Xms1024M -jar server.jar nogui
-pause
+git add .
+git commit -m "actualizacion"
+git push
 exit
 
 :dos
 cls
 echo Iniciando Server con 2GB de RAM...
 java -Xmx2048M -Xms2048M -jar server.jar nogui
-pause
+git add .
+git commit -m "actualizacion"
+git push
 exit
 
 :cuatro
 cls
 echo Iniciando Server con 4GB de RAM...
 java -Xmx4096M -Xms4096M -jar server.jar nogui
-pause
+git add .
+git commit -m "actualizacion"
+git push
 exit
 
 :seis
 cls
 echo Iniciando Server con 6GB de RAM...
 java -Xmx6144M -Xms6144M -jar server.jar nogui
-pause
+git add .
+git commit -m "actualizacion"
+git push
 exit
 
 :ocho
 cls
 echo Iniciando Server con 8GB de RAM...
 java -Xmx8192M -Xms8192M -jar server.jar nogui
-pause
+git add .
+git commit -m "actualizacion"
+git push
 exit
 
 :dies
 cls
 echo Iniciando Server con 10GB de RAM...
 java -Xmx10240M -Xms10240M -jar server.jar nogui
-pause
+git add .
+git commit -m "actualizacion"
+git push
 exit
