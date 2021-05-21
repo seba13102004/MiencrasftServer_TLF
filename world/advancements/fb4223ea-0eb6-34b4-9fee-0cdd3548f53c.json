@@ -1,0 +1,14 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-05-21 20:47:25 -0300",
+      "minecraft:mountains": "2021-05-21 20:47:35 -0300",
+      "minecraft:river": "2021-05-21 20:47:39 -0300",
+      "minecraft:wooded_mountains": "2021-05-21 20:47:41 -0300",
+      "minecraft:stone_shore": "2021-05-21 20:47:32 -0300",
+      "minecraft:plains": "2021-05-21 20:46:17 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
