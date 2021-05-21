@@ -1,39 +1,51 @@
-[17:32:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:32:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:32:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:32:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:32:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:32:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:32:49] [main/INFO]: Reloading ResourceManager: Default
-[17:32:49] [Worker-Main-9/INFO]: Loaded 7 recipes
-[17:32:50] [Worker-Main-9/INFO]: Loaded 927 advancements
-[17:32:50] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:32:50] [Server thread/INFO]: Loading properties
-[17:32:50] [Server thread/INFO]: Default game type: SURVIVAL
-[17:32:50] [Server thread/INFO]: Generating keypair
-[17:32:51] [Server thread/INFO]: Starting Minecraft server on *:2777
-[17:32:51] [Server thread/INFO]: Using default channel type
-[17:32:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:32:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:32:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:32:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:32:51] [Server thread/INFO]: Preparing level "world"
-[17:32:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[17:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[17:32:52] [Server thread/INFO]: Preparing spawn area: 50%
-[17:32:52] [Server thread/INFO]: Time elapsed: 1275 ms
-[17:32:52] [Server thread/INFO]: Done (1.339s)! For help, type "help"
-[17:33:01] [Server thread/INFO]: Stopping the server
-[17:33:01] [Server thread/INFO]: Stopping server
-[17:33:01] [Server thread/INFO]: Saving players
-[17:33:01] [Server thread/INFO]: Saving worlds
-[17:33:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:33:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:33:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:56:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:56:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:56:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:56:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:56:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:56:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:56:02] [main/INFO]: Reloading ResourceManager: Default
+[19:56:03] [Worker-Main-13/INFO]: Loaded 7 recipes
+[19:56:04] [Worker-Main-13/INFO]: Loaded 927 advancements
+[19:56:05] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:56:05] [Server thread/INFO]: Loading properties
+[19:56:05] [Server thread/INFO]: Default game type: SURVIVAL
+[19:56:05] [Server thread/INFO]: Generating keypair
+[19:56:05] [Server thread/INFO]: Starting Minecraft server on *:2777
+[19:56:05] [Server thread/INFO]: Using default channel type
+[19:56:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:56:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:56:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:56:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:56:07] [Server thread/INFO]: Preparing level "world"
+[19:56:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:56:16] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:56:16] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:56:16] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:56:17] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:56:17] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:56:18] [Worker-Main-18/INFO]: Preparing spawn area: 1%
+[19:56:18] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[19:56:19] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[19:56:19] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[19:56:20] [Worker-Main-18/INFO]: Preparing spawn area: 4%
+[19:56:20] [Worker-Main-9/INFO]: Preparing spawn area: 9%
+[19:56:21] [Worker-Main-18/INFO]: Preparing spawn area: 10%
+[19:56:21] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[19:56:22] [Worker-Main-10/INFO]: Preparing spawn area: 16%
+[19:56:22] [Worker-Main-9/INFO]: Preparing spawn area: 24%
+[19:56:23] [Worker-Main-11/INFO]: Preparing spawn area: 28%
+[19:56:23] [Worker-Main-9/INFO]: Preparing spawn area: 33%
+[19:56:24] [Worker-Main-18/INFO]: Preparing spawn area: 36%
+[19:56:24] [Worker-Main-10/INFO]: Preparing spawn area: 42%
+[19:56:25] [Worker-Main-11/INFO]: Preparing spawn area: 48%
+[19:56:25] [Worker-Main-9/INFO]: Preparing spawn area: 52%
+[19:56:26] [Worker-Main-9/INFO]: Preparing spawn area: 59%
+[19:56:26] [Worker-Main-18/INFO]: Preparing spawn area: 66%
+[19:56:27] [Worker-Main-18/INFO]: Preparing spawn area: 71%
+[19:56:27] [Worker-Main-10/INFO]: Preparing spawn area: 77%
+[19:56:28] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[19:56:29] [Worker-Main-18/INFO]: Preparing spawn area: 86%
+[19:56:29] [Worker-Main-18/INFO]: Preparing spawn area: 96%
+[19:56:29] [Server thread/INFO]: Time elapsed: 13769 ms
+[19:56:29] [Server thread/INFO]: Done (21.657s)! For help, type "help"

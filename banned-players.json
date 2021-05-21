@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "e30af2ae-592c-3bd2-8276-2e2a8d84fb69",
+    "name": "VitoBanaro",
+    "created": "2021-05-21 17:21:58 -0300",
+    "source": "Enzzyy_",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3ba379f3-d209-378f-bcce-8e9a3bdfe19b",
+    "name": "Elio",
+    "created": "2021-05-20 20:49:56 -0300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "c5e40393-0e84-4538-a01f-5e751da0f18c",
+    "name": "Eliot",
+    "created": "2021-05-20 20:49:44 -0300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

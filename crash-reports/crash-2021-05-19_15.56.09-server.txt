@@ -1,0 +1,41 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 19/05/21 15:56
+Description: Exception in server tick loop
+
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:902)
+	at com.google.gson.Gson.fromJson(Gson.java:825)
+	at acy.f(SourceFile:118)
+	at zf.y(SourceFile:95)
+	at zf.<init>(SourceFile:22)
+	at zg.d(SourceFile:169)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:645)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257)
+	at net.minecraft.server.MinecraftServer$$Lambda$3311/1277574556.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:590)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.Gson.fromJson(Gson.java:883)
+	... 9 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4374123104 bytes (4171 MB) / 6350176256 bytes (6056 MB) up to 6350176256 bytes (6056 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xmx6144M -Xms6144M
+	Data Packs: vanilla, file/multiplayer_sleep_v1.0.1.zip (incompatible)
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

@@ -1,0 +1,33 @@
+---- Minecraft Crash Report ----
+// You should try our sister game, Minceraft!
+
+Time: 19/05/21 15:57
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at acy.f(SourceFile:121)
+	at zf.y(SourceFile:95)
+	at zf.<init>(SourceFile:22)
+	at zg.d(SourceFile:169)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:645)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257)
+	at net.minecraft.server.MinecraftServer$$Lambda$3289/1542485917.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3831997144 bytes (3654 MB) / 4231004160 bytes (4035 MB) up to 4231004160 bytes (4035 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xmx4096M -Xms4096M
+	Data Packs: vanilla, file/multiplayer_sleep_v1.0.1.zip (incompatible)
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
