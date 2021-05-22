@@ -1,80 +1,182 @@
-[20:52:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:52:02] [main/INFO]: Reloading ResourceManager: Default
-[20:52:03] [Worker-Main-12/INFO]: Loaded 7 recipes
-[20:52:04] [Worker-Main-12/INFO]: Loaded 927 advancements
-[20:52:05] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:52:05] [Server thread/INFO]: Loading properties
-[20:52:05] [Server thread/INFO]: Default game type: SURVIVAL
-[20:52:05] [Server thread/INFO]: Generating keypair
-[20:52:05] [Server thread/INFO]: Starting Minecraft server on *:3777
-[20:52:05] [Server thread/INFO]: Using default channel type
-[20:52:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:52:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:52:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:52:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:52:07] [Server thread/INFO]: Preparing level "world"
-[20:52:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:52:15] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:52:15] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[20:52:15] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:52:15] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
-[20:52:15] [Worker-Main-15/INFO]: Preparing spawn area: 83%
-[20:52:15] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[20:52:16] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:52:16] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[20:52:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[20:52:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:52:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:52:18] [Worker-Main-15/INFO]: Preparing spawn area: 84%
-[20:52:19] [Worker-Main-14/INFO]: Preparing spawn area: 85%
-[20:52:19] [Worker-Main-14/INFO]: Preparing spawn area: 89%
-[20:52:20] [Worker-Main-13/INFO]: Preparing spawn area: 92%
-[20:52:21] [Server thread/INFO]: Preparing spawn area: 94%
-[20:52:21] [Server thread/INFO]: Time elapsed: 13726 ms
-[20:52:21] [Server thread/INFO]: Done (13.952s)! For help, type "help"
-[21:25:57] [Server thread/INFO]: Marquitos270104[/127.0.0.1:54871] logged in with entity id 230 at (-214.5, 68.0, -99.5)
-[21:25:57] [Server thread/INFO]: Marquitos270104 joined the game
-[21:27:01] [Server thread/INFO]: green_destroyer[/152.169.41.26:52930] logged in with entity id 371 at (-219.5, 67.0, -90.5)
-[21:27:01] [Server thread/INFO]: green_destroyer joined the game
-[21:27:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-225, y=69, z=-95}
-[21:27:43] [Server thread/INFO]: Marquitos270104 was shot by Skeleton
-[21:28:35] [Server thread/INFO]: Made Marquitos270104 a server operator
-[21:28:47] [Server thread/INFO]: [Marquitos270104: Set the weather to clear]
-[21:29:12] [Server thread/INFO]: green_destroyer has made the advancement [Stone Age]
-[21:29:48] [Server thread/INFO]: green_destroyer has made the advancement [Getting an Upgrade]
-[21:30:46] [Server thread/INFO]: Marquitos270104 has made the advancement [Stone Age]
-[21:31:40] [Server thread/INFO]: Marquitos270104 has made the advancement [Getting an Upgrade]
-[21:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
-[21:34:00] [Server thread/INFO]: [Marquitos270104: Set the weather to clear]
-[21:36:17] [Server thread/INFO]: green_destroyer has made the advancement [Monster Hunter]
-[21:38:24] [Server thread/INFO]: nicov[/181.228.7.17:50940] logged in with entity id 4332 at (-219.5, 67.0, -89.5)
-[21:38:24] [Server thread/INFO]: nicov joined the game
-[21:39:45] [Server thread/INFO]: [Marquitos270104: Set the weather to clear]
-[21:39:57] [Server thread/INFO]: [Marquitos270104: Gamerule doWeatherCycle is now set to: false]
-[21:40:32] [Server thread/INFO]: green_destroyer has made the advancement [Acquire Hardware]
-[21:40:56] [Server thread/INFO]: green_destroyer has made the advancement [Suit Up]
-[21:41:17] [Server thread/INFO]: green_destroyer has made the advancement [Not Today, Thank You]
-[21:41:19] [Server thread/INFO]: [Marquitos270104: Set the time to 1000]
-[21:41:54] [Server thread/INFO]: Marquitos270104 has made the advancement [Monster Hunter]
-[21:42:23] [Server thread/ERROR]: Failed to rename
-java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4382440285480787705.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+[00:00:34] [Server thread/INFO]: Marquitos has made the advancement [Stone Age]
+[00:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7273ms or 145 ticks behind
+[00:01:16] [Server thread/WARN]: Sittin moved too quickly! -5.557776470067779,3.1661092609382138,7.763884598125742
+[00:01:16] [Server thread/WARN]: green_destroyer moved too quickly! -7.333650607918355,2.796735600668711,6.534625988175094
+[00:01:16] [Server thread/WARN]: PlutonGBI moved too quickly! 4.64968813052576,0.0,8.961585351110898
+[00:01:18] [Server thread/INFO]: <Yogui354> t
+[00:01:18] [Server thread/INFO]: Marquitos has made the advancement [Getting an Upgrade]
+[00:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[00:02:56] [Server thread/INFO]: [Marquitos: Teleported Marquitos to green_destroyer]
+[00:05:59] [Server thread/INFO]: green_destroyer has made the advancement [Best Friends Forever]
+[00:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[00:08:20] [Server thread/WARN]: green_destroyer moved too quickly! 7.535512444555934,-1.0,6.562019428386975
+[00:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28579ms or 571 ticks behind
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.207959624283149,0.0,-0.7207933710991483
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.60573846530201,0.0,-0.7023767622106334
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.347473836122617,0.0,0.46461276228012593
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.743349619269566,0.0,0.4350777997980231
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.139040366612335,0.0,0.40160874375567346
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.534627554043027,0.0,0.3649695139910136
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.308716081977764,0.0,-1.0676101242542018
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.706538332585751,0.0,-1.1065103578572462
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.104431180160873,0.0,-1.1449486389097956
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.502389856058244,0.0,-1.1829444160249523
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.90041005359626,0.0,-1.2205151913241252
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 12.298487233660353,0.0,-1.2576843582179436
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 12.69661729987115,0.0,-1.2944729700769813
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 13.09479655803716,0.0,-1.3308999740028185
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 13.493021359285649,0.0,-1.3669862433700928
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 13.89128841218053,0.0,-1.4027505639827496
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 14.289594437780124,0.0,-1.438213664746172
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 14.687936477585936,0.0,-1.4733942012087482
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 15.086311865224616,0.0,-1.5083089631310713
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 15.484718200959833,0.0,-1.5429730612970616
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 15.883153012104685,0.0,-1.5774039170941023
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 16.281614069515626,0.0,-1.6116172100033737
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 16.680099366963532,0.0,-1.645627051324709
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.356308783818577,0.0,-0.9164738832931789
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 10.754950173777388,0.0,-0.9491167750860541
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.153601141901845,0.0,-0.9816712059929387
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.552260730375338,0.0,-1.014146022104569
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 11.950928382636448,0.0,-1.0465453620560083
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 12.349603292306256,0.0,-1.0788767734650264
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 12.748284733643686,0.0,-1.1111470491874798
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 13.146972355230446,0.0,-1.1433584797143794
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 13.545665539041238,0.0,-1.1755169495667133
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 13.94436372885366,0.0,-1.2076277548130747
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 14.343066424067501,0.0,-1.2396956619153343
+[00:08:20] [Server thread/WARN]: Yogui354 moved too quickly! -9.780036809227568,0.0,2.222093066211528
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 14.741773479616313,0.0,-1.2717211380753497
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 15.140484459466279,0.0,-1.3037084263883116
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 15.539198971187488,0.0,-1.3356613456398918
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 15.937916661592453,0.0,-1.3675833327370128
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 16.336637212812775,0.0,-1.3994774808959392
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 16.735360338767123,0.0,-1.4313465740110587
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 17.134086083730153,0.0,-1.4631892945081972
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 17.53281418580127,0.0,-1.4950082796498236
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 17.931544409269463,0.0,-1.5268059029720007
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 18.330276541994863,0.0,-1.5585843006572304
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 18.729010393051794,0.0,-1.590345395269651
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 19.12774579060715,0.0,-1.622090917116907
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 19.526482580010907,0.0,-1.6538224234759582
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 19.925220622078314,0.0,-1.685541315895989
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 20.323959791543075,0.0,-1.7172488557711176
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 20.722699975665137,0.0,-1.7489461783561637
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 21.121441072978996,0.0,-1.7806343053803175
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 21.520182992165246,0.0,-1.812314156399907
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 21.918925651036716,0.0,-1.8439865590156614
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 22.317668975624883,0.0,-1.875652258068044
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 22.716412899358147,0.0,-1.9073119239135394
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 23.115157362321952,0.0,-1.9389661598730754
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 23.51390231059304,0.0,-1.9706155089353388
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 23.91264769564077,0.0,-2.0022604597901363
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 24.311393473787575,0.0,-2.0339014522583057
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 24.710139605723498,0.0,-2.0655388821786573
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 25.10888605606965,0.0,-2.097173105806064
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 25.50763279298485,0.0,-2.1288044437699227
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 25.9063800895608,0.0,-2.160429361557476
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 26.30512788983151,0.0,-2.1920485011863775
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 26.70387614342735,0.0,-2.223662440472822
+[00:08:20] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 27.102624805015694,0.0,-2.2552716994509865
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 27.501373833797516,0.0,-2.286876746151961
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 27.900123193053332,0.0,-2.3184780018035553
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 28.298872849735744,0.0,-2.3500758455106734
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 28.69762277410223,0.0,-2.381670618467979
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 29.096372939384082,0.0,-2.4132626277504414
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 29.495123321489928,0.0,-2.444852149725648
+[00:08:21] [Server thread/WARN]: PlutonGBI moved too quickly! 2.0959781931235284,2.9624670826809734,9.374648959576007
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 29.89387389873741,0.0,-2.4764394331243693
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 30.292624651612414,0.0,-2.5080247018042883
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 30.691424572471078,0.0,-2.5389119277218697
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 31.090328386411784,0.0,-2.567845423703261
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 31.489334674622796,0.0,-2.593133963033324
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 31.888315872832663,0.0,-2.6127445796116717
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 32.28704631228584,0.0,-2.625098320515235
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 32.68524673872389,0.0,-2.6290006823792282
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 33.08261616892605,0.0,-2.623580460554308
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 33.478855409520065,0.0,-2.6082408821985155
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 33.87368316869129,0.0,-2.5826148693608957
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 34.266843694736735,0.0,-2.5465172916498204
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 34.658355086827214,0.0,-2.500571934010395
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 35.048479339462574,0.0,-2.4460383958548846
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 35.43766152331955,0.0,-2.3846880201994054
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 35.78792547951207,0.0,-2.3294726835722486
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 36.10316303173431,0.0,-2.279778881924244
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 36.38687682121849,0.0,-2.2350544616258503
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 36.64221922498996,0.0,-2.194802484423576
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 36.91103434939396,0.0,-2.1497218773666873
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 37.19208469144996,0.0,-2.1007936065336708
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 37.4842403121188,0.0,-2.048853023431434
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 37.78647047154186,0.0,-1.9946077815452554
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 38.09783578783299,0.0,-1.9386540613510306
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 38.417481556245775,0.0,-1.8814950275697129
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 38.74463013454829,0.0,-1.8235499537936448
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 39.0785740153558,0.0,-1.7651624649182622
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 39.418671215456925,0.0,-1.70661935332123
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 39.76433914435188,0.0,-1.6481561880760864
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 40.11504851224345,0.0,-1.5899585769510622
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 40.47031993711653,0.0,-1.5321784999968031
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 40.82971865966033,0.0,-1.474933839460391
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 41.19285031196546,0.0,-1.418311756039202
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 41.559358033222,0.0,-1.3623793424679889
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 41.928827486650334,0.0,-1.3064897889286158
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 42.30077477785903,0.0,-1.2494338586818685
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 42.674751240457,0.0,-1.1902460615124255
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 43.05034802320915,0.0,-1.1281718412882356
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 43.427197525092424,0.0,-1.0626342058527598
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 43.804972839100856,0.0,-0.9932037619157654
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 44.18338676365897,0.0,-0.919575576985153
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 44.56218983255803,0.0,-0.8415484528952675
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 44.94116762175281,0.0,-0.7590064088869894
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 45.320137546892965,0.0,-0.671902157010436
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 45.69894531054888,0.0,-0.5802423715484792
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 46.077463779702384,0.0,-0.48408177683927534
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 46.455589095837695,0.0,-0.383510670034525
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 46.83323812024878,0.0,-0.27864739917674797
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 47.210347300830335,0.0,-0.16963523028437066
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 47.58686725634834,0.0,-0.05662887432856678
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 47.96276189206901,0.0,0.060206853770864655
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 48.33800754421986,0.0,0.18069822435484184
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 48.71259067146093,0.0,0.3046671883688532
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 49.08650566917436,0.0,0.43193546381246506
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 49.45975431421084,0.0,0.562324664273433
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 49.832343715440174,0.0,0.6956599089305655
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 50.20428748300719,0.0,0.8317660335515029
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 50.575600589229,0.0,0.9704782061090782
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 50.9463024286772,0.0,1.1116339216795268
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 51.3164149081872,0.0,1.2550763162086014
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 51.68596070179137,0.0,1.4006571284118081
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 52.054963211251334,0.0,1.5482358618486387
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 52.423448132413114,0.0,1.6976755383306
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! 52.791440081653946,0.0,1.848849342190647
+[00:08:21] [Server thread/INFO]: <Sittin> t
+[00:08:21] [Server thread/WARN]: Segun1357 moved too quickly! -6.920943384719408,0.41999998688697815,-7.867904580081813
+[00:08:21] [Server thread/WARN]: Marquitos moved too quickly! 2.1330249402758454,-1.1319031399820005,-9.868646277595872
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -29.81995712605817,0.0,1.4226481027121736
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -29.81995712605817,0.0,1.4226481027121736
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -29.448852890581293,0.0,1.5613601893691111
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.868647034596506,0.0,1.9119675207120963
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.868647034596506,0.0,1.9119675207120963
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.868647034596506,0.0,1.9119675207120963
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.53465323151522,0.0,2.0368083953961786
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.2340588167051,0.0,2.149165179635361
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.868647034596506,0.0,1.9119675207120963
+[00:08:21] [Server thread/WARN]: Boat (vehicle of Sittin) moved too quickly! -19.598112068434148,0.0,2.0130886238486028
+[00:08:32] [Server thread/INFO]: <Sittin> escribilas
+[00:08:35] [Server thread/INFO]: <Yogui354> -1100 2022
+[00:08:38] [Server thread/INFO]: <Yogui354> 2220
+[00:09:18] [Server thread/INFO]: Marquitos has made the advancement [Suit Up]
+[00:09:18] [Server thread/INFO]: Marquitos has made the advancement [Acquire Hardware]
+[00:10:21] [Server thread/INFO]: [Marquitos: Set the weather to clear]
+[00:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[00:10:53] [Server thread/INFO]: <Yogui354> -1200
+[00:10:55] [Server thread/INFO]: <Yogui354> 2214
+[00:11:23] [Server thread/INFO]: <green_destroyer> s
+[00:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[00:11:56] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4875508454686085783.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
 
 	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
 	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
@@ -92,26 +194,297 @@ java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51
 	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3276/710394988.run(Unknown Source) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[21:42:23] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4382440285480787705.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
-[21:42:23] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4382440285480787705.dat, retrying 0/10
-[21:42:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-207, y=73, z=-111} fx{x=-225, y=68, z=-95}
-[21:42:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-207, y=73, z=-111} fx{x=-225, y=69, z=-95}
-[21:42:59] [Server thread/INFO]: green_destroyer lost connection: Disconnected
-[21:42:59] [Server thread/INFO]: green_destroyer left the game
-[21:43:01] [Server thread/INFO]: Stopping the server
-[21:43:01] [Server thread/INFO]: Stopping server
-[21:43:01] [Server thread/INFO]: Saving players
-[21:43:01] [Server thread/INFO]: Marquitos270104 lost connection: Disconnected
-[21:43:01] [Server thread/INFO]: Marquitos270104 left the game
-[21:43:01] [Server thread/INFO]: Saving worlds
-[21:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:11:56] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4875508454686085783.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[00:11:56] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4875508454686085783.dat, retrying 0/10
+[00:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4785ms or 95 ticks behind
+[00:12:53] [Server thread/INFO]: [Marquitos: Teleported green_destroyer to Marquitos]
+[00:13:46] [Server thread/INFO]: PlutonGBI has made the advancement [Getting an Upgrade]
+[00:15:12] [Server thread/INFO]: Sittin has made the advancement [Getting an Upgrade]
+[00:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[00:21:01] [Server thread/INFO]: Sittin has made the advancement [Monster Hunter]
+[00:21:06] [Server thread/INFO]: [Marquitos: Set the weather to clear]
+[00:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[00:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:23:34] [Server thread/INFO]: PlutonGBI has made the advancement [Acquire Hardware]
+[00:23:43] [Server thread/INFO]: PlutonGBI has made the advancement [Isn't It Iron Pick]
+[00:26:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/97689, l='ServerLevel[world]', x=-1281.73, y=83.00, z=1828.11]
+[00:26:59] [Server thread/INFO]: green_destroyer has made the advancement [Hot Stuff]
+[00:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
+[00:27:14] [Server thread/INFO]: <Yogui354> TT
+[00:29:26] [Server thread/INFO]: Yogui354 has made the advancement [Acquire Hardware]
+[00:31:13] [Server thread/INFO]: Segun1357 has made the advancement [Monster Hunter]
+[00:31:51] [Server thread/INFO]: [Marquitos: Set the weather to clear]
+[00:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:32:15] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-5973630832175490694.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:32:15] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-5973630832175490694.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[00:32:15] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-5973630832175490694.dat, retrying 0/10
+[00:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5193ms or 103 ticks behind
+[00:33:33] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/103113, l='ServerLevel[world]', x=-1289.70, y=84.07, z=1815.04]
+[00:35:46] [Server thread/INFO]: Segun1357 has made the advancement [Isn't It Iron Pick]
+[00:36:21] [Server thread/INFO]: Marquitos has made the advancement [Monster Hunter]
+[00:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4562ms or 91 ticks behind
+[00:38:40] [Server thread/INFO]: PlutonGBI has made the advancement [Diamonds!]
+[00:39:31] [Server thread/INFO]: Segun1357 tried to swim in lava to escape Skeleton
+[00:40:38] [Server thread/INFO]: Sittin has made the advancement [Acquire Hardware]
+[00:40:44] [Server thread/INFO]: Sittin has made the advancement [Isn't It Iron Pick]
+[00:42:24] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:42:24] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[00:42:24] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat, retrying 0/10
+[00:42:24] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:42:24] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[00:42:24] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat, retrying 1/10
+[00:42:24] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:42:24] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[00:42:24] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-8552123922546630102.dat, retrying 2/10
+[00:42:24] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\b214ad7f-6112-3d45-937b-2091cec9777a-889600675789840095.dat -> .\world\playerdata\b214ad7f-6112-3d45-937b-2091cec9777a.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:42:24] [Server thread/WARN]: Failed to execute rename .\world\playerdata\b214ad7f-6112-3d45-937b-2091cec9777a-889600675789840095.dat to .\world\playerdata\b214ad7f-6112-3d45-937b-2091cec9777a.dat
+[00:42:24] [Server thread/ERROR]: Failed to replace .\world\playerdata\b214ad7f-6112-3d45-937b-2091cec9777a.dat with .\world\playerdata\b214ad7f-6112-3d45-937b-2091cec9777a-889600675789840095.dat, retrying 0/10
+[00:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[00:42:28] [Server thread/INFO]: <Yogui354> t
+[00:42:43] [Server thread/INFO]: [Marquitos: Set the weather to clear]
+[00:44:10] [Server thread/INFO]: Marquitos lost connection: Disconnected
+[00:44:10] [Server thread/INFO]: Marquitos left the game
+[00:44:13] [Server thread/INFO]: Yogui354 has made the advancement [Isn't It Iron Pick]
+[00:46:57] [Server thread/INFO]: <Yogui354> -1397
+[00:47:00] [Server thread/INFO]: <Yogui354> 1834
+[00:47:18] [Server thread/INFO]: <Yogui354> t
+[00:50:59] [Server thread/INFO]: PlutonGBI has made the advancement [Suit Up]
+[00:52:13] [Server thread/INFO]: PlutonGBI lost connection: Disconnected
+[00:52:13] [Server thread/INFO]: PlutonGBI left the game
+[00:53:18] [Server thread/INFO]: Sittin has made the advancement [Diamonds!]
+[00:53:27] [Server thread/INFO]: <Segun1357> clapclap
+[00:57:08] [Server thread/INFO]: Segun1357 has made the advancement [Diamonds!]
+[00:57:28] [Server thread/WARN]: Yogui354 moved too quickly! 9.895172724304075,-1.9868319865636863,-0.7160738207833219
+[01:00:29] [Server thread/INFO]: <Sittin> chachi down
+[01:00:34] [Server thread/INFO]: <Yogui354> se me fue el wifi del celu
+[01:00:36] [Server thread/INFO]: <Yogui354> ahi vuelvo
+[01:00:44] [Server thread/INFO]: <Yogui354> fibertel de mierda
+[01:01:00] [Server thread/INFO]: green_destroyer has made the advancement [A Seedy Place]
+[01:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[01:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6011ms or 120 ticks behind
+[01:07:39] [Server thread/INFO]: <Yogui354> t
+[01:14:42] [Server thread/INFO]: <Yogui354> t
+[01:19:41] [Server thread/INFO]: Segun1357 has made the advancement [Not Today, Thank You]
+[01:22:45] [Server thread/INFO]: Segun1357 has made the advancement [Cover Me With Diamonds]
+[01:26:27] [Server thread/INFO]: Segun1357 has made the advancement [Sweet Dreams]
+[01:30:37] [Server thread/INFO]: <Yogui354> -1413 1898
+[01:35:08] [Server thread/INFO]: Sittin has made the advancement [Cover Me With Diamonds]
+[01:37:35] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-1039247280342091519.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:37:35] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-1039247280342091519.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[01:37:35] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-1039247280342091519.dat, retrying 0/10
+[01:45:26] [Server thread/INFO]: Segun1357 has made the advancement [A Seedy Place]
+[01:46:38] [Server thread/INFO]: <Sittin> -1400 1905
+[01:47:54] [Server thread/INFO]: Sittin has made the advancement [Sweet Dreams]
+[01:47:56] [Server thread/INFO]: <Yogui354> t
+[01:51:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Spruce Log'/150046, l='ServerLevel[world]', x=-1343.15, y=78.04, z=1800.13]
+[01:58:04] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[01:58:04] [Server thread/INFO]: green_destroyer left the game
+[01:58:17] [Server thread/INFO]: <Yogui354> t
+[01:58:26] [Server thread/INFO]: green_destroyer[/152.169.41.26:53763] logged in with entity id 153327 at (-1293.6871865858643, 81.92159999847412, 1818.574547886334)
+[01:58:26] [Server thread/INFO]: green_destroyer joined the game
+[01:59:28] [Server thread/INFO]: Yogui354 has made the advancement [Monster Hunter]
+[02:03:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1524, y=67, z=1890} fx{x=-1526, y=66, z=1891}
+[02:03:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1524, y=65, z=1891} fx{x=-1524, y=66, z=1890}
+[02:04:25] [Server thread/INFO]: Segun1357 has made the advancement [The Parrots and the Bats]
+[02:05:20] [Server thread/INFO]: Segun1357 lost connection: Disconnected
+[02:05:20] [Server thread/INFO]: Segun1357 left the game
+[02:14:35] [Server thread/INFO]: VitoBanaro[/200.122.70.245:50845] logged in with entity id 159491 at (-230.5, 68.0, -102.5)
+[02:14:35] [Server thread/INFO]: VitoBanaro joined the game
+[02:14:55] [Server thread/INFO]: <Sittin> -1400 2000
+[02:18:52] [Server thread/INFO]: VitoBanaro drowned
+[02:22:35] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level852495848834751547.dat -> .\world\level.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyg$a.a(SourceFile:359) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:574) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:830) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3278/308195913.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[02:22:35] [Server thread/WARN]: Failed to execute rename .\world\level852495848834751547.dat to .\world\level.dat
+[02:22:35] [Server thread/ERROR]: Failed to replace .\world\level.dat with .\world\level852495848834751547.dat, retrying 0/10
+[02:23:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=69, z=-92} fx{x=-221, y=67, z=-107}
+[02:23:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=69, z=-92} fx{x=-221, y=67, z=-108}
+[02:23:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=69, z=-92} fx{x=-221, y=67, z=-107}
+[02:23:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=69, z=-92} fx{x=-221, y=67, z=-108}
+[02:27:40] [Server thread/INFO]: VitoBanaro fell from a high place
+[02:28:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-237, y=67, z=-109}
+[02:28:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-234, y=67, z=-109}
+[02:28:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-232, y=67, z=-111}
+[02:28:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-232, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-231, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-230, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-229, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-228, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-227, y=67, z=-111}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-227, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-226, y=67, z=-112}
+[02:28:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-230, y=66, z=-117} fx{x=-225, y=67, z=-112}
+[02:29:08] [Server thread/INFO]: VitoBanaro fell from a high place
+[02:29:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-220, y=67, z=-93}
+[02:29:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-220, y=67, z=-93}
+[02:32:37] [Server thread/INFO]: VitoBanaro fell from a high place
+[02:33:50] [Server thread/INFO]: VitoBanaro lost connection: Disconnected
+[02:33:50] [Server thread/INFO]: VitoBanaro left the game
+[02:35:21] [Server thread/INFO]: Yogui354 has made the advancement [A Seedy Place]
+[02:35:59] [Server thread/INFO]: VitoBanaro[/200.122.70.245:50944] logged in with entity id 169092 at (-216.67432710578058, 67.0, -118.7240483956376)
+[02:35:59] [Server thread/INFO]: VitoBanaro joined the game
+[02:36:19] [Server thread/INFO]: VitoBanaro lost connection: Disconnected
+[02:36:19] [Server thread/INFO]: VitoBanaro left the game
+[02:39:35] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[02:39:35] [Server thread/INFO]: green_destroyer left the game
+[02:39:55] [Server thread/INFO]: Sittin lost connection: Disconnected
+[02:40:31] [Server thread/INFO]: Sittin left the game
+[02:40:31] [Server thread/INFO]: Yogui354 lost connection: Disconnected
+[02:40:31] [Server thread/INFO]: Yogui354 left the game
+[02:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36505ms or 730 ticks behind
+[02:40:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:40:40] [Server thread/INFO]: stopstopstop<--[HERE]
+[02:40:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:40:47] [Server thread/INFO]: Stop<--[HERE]
+[02:40:56] [Server thread/INFO]: Stopping the server
+[02:40:56] [Server thread/INFO]: Stopping server
+[02:40:56] [Server thread/INFO]: Saving players
+[02:40:56] [Server thread/INFO]: Saving worlds
+[02:40:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:40:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:40:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:40:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:40:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:40:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:40:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:40:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:40:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
