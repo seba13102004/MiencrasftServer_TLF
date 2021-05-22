@@ -1,77 +1,117 @@
-[20:45:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:45:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:45:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:45:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:45:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:45:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:45:36] [main/INFO]: Reloading ResourceManager: Default
-[20:45:37] [Worker-Main-13/INFO]: Loaded 7 recipes
-[20:45:38] [Worker-Main-13/INFO]: Loaded 927 advancements
-[20:45:39] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:45:39] [Server thread/INFO]: Loading properties
-[20:45:39] [Server thread/INFO]: Default game type: SURVIVAL
-[20:45:39] [Server thread/INFO]: Generating keypair
-[20:45:40] [Server thread/INFO]: Starting Minecraft server on *:3777
-[20:45:40] [Server thread/INFO]: Using default channel type
-[20:45:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:45:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:45:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:45:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:45:42] [Server thread/INFO]: Preparing level "world"
-[20:45:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 0%
-[20:45:46] [Server thread/INFO]: Preparing spawn area: 47%
-[20:45:52] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[20:45:52] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:52] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:52] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:52] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:52] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[20:45:52] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-15/INFO]: Preparing spawn area: 83%
-[20:45:53] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[20:45:54] [Worker-Main-15/INFO]: Preparing spawn area: 83%
-[20:45:54] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[20:45:55] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[20:45:55] [Server thread/INFO]: Preparing spawn area: 83%
-[20:45:56] [Worker-Main-15/INFO]: Preparing spawn area: 84%
-[20:45:56] [Worker-Main-11/INFO]: Preparing spawn area: 85%
-[20:45:57] [Worker-Main-15/INFO]: Preparing spawn area: 85%
-[20:45:57] [Worker-Main-9/INFO]: Preparing spawn area: 91%
-[20:45:58] [Server thread/INFO]: Preparing spawn area: 98%
-[20:45:58] [Server thread/INFO]: Time elapsed: 15017 ms
-[20:45:58] [Server thread/INFO]: Done (15.245s)! For help, type "help"
-[20:46:17] [Server thread/INFO]: Tatan[/200.124.108.105:51987] logged in with entity id 114 at (-215.5, 67.0, -90.5)
-[20:46:17] [Server thread/INFO]: Tatan joined the game
-[20:46:28] [Server thread/INFO]: Made Tatan a server operator
-[20:46:43] [Server thread/INFO]: [Tatan: Set own game mode to Creative Mode]
-[20:47:25] [Server thread/INFO]: [Tatan: Teleported Tatan to -299.5, 123.0, 300.5]
-[20:48:18] [Server thread/INFO]: [Tatan: Set own game mode to Survival Mode]
-[20:48:23] [Server thread/INFO]: Tatan fell out of the world
-[20:48:23] [Server thread/INFO]: [Tatan: Killed Tatan]
-[20:48:28] [Server thread/INFO]: Tatan lost connection: Disconnected
-[20:48:28] [Server thread/INFO]: Tatan left the game
-[20:48:34] [Server thread/INFO]: Stopping the server
-[20:48:34] [Server thread/INFO]: Stopping server
-[20:48:34] [Server thread/INFO]: Saving players
-[20:48:34] [Server thread/INFO]: Saving worlds
-[20:48:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:48:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:48:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:48:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:48:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:48:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:48:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:48:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:48:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:52:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:52:02] [main/INFO]: Reloading ResourceManager: Default
+[20:52:03] [Worker-Main-12/INFO]: Loaded 7 recipes
+[20:52:04] [Worker-Main-12/INFO]: Loaded 927 advancements
+[20:52:05] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:52:05] [Server thread/INFO]: Loading properties
+[20:52:05] [Server thread/INFO]: Default game type: SURVIVAL
+[20:52:05] [Server thread/INFO]: Generating keypair
+[20:52:05] [Server thread/INFO]: Starting Minecraft server on *:3777
+[20:52:05] [Server thread/INFO]: Using default channel type
+[20:52:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:52:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:52:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:52:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:52:07] [Server thread/INFO]: Preparing level "world"
+[20:52:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:52:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:52:15] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:52:15] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[20:52:15] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:52:15] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Server thread/INFO]: Preparing spawn area: 83%
+[20:52:15] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[20:52:15] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[20:52:16] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:52:16] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[20:52:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[20:52:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:52:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[20:52:18] [Worker-Main-15/INFO]: Preparing spawn area: 84%
+[20:52:19] [Worker-Main-14/INFO]: Preparing spawn area: 85%
+[20:52:19] [Worker-Main-14/INFO]: Preparing spawn area: 89%
+[20:52:20] [Worker-Main-13/INFO]: Preparing spawn area: 92%
+[20:52:21] [Server thread/INFO]: Preparing spawn area: 94%
+[20:52:21] [Server thread/INFO]: Time elapsed: 13726 ms
+[20:52:21] [Server thread/INFO]: Done (13.952s)! For help, type "help"
+[21:25:57] [Server thread/INFO]: Marquitos270104[/127.0.0.1:54871] logged in with entity id 230 at (-214.5, 68.0, -99.5)
+[21:25:57] [Server thread/INFO]: Marquitos270104 joined the game
+[21:27:01] [Server thread/INFO]: green_destroyer[/152.169.41.26:52930] logged in with entity id 371 at (-219.5, 67.0, -90.5)
+[21:27:01] [Server thread/INFO]: green_destroyer joined the game
+[21:27:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-225, y=69, z=-95}
+[21:27:43] [Server thread/INFO]: Marquitos270104 was shot by Skeleton
+[21:28:35] [Server thread/INFO]: Made Marquitos270104 a server operator
+[21:28:47] [Server thread/INFO]: [Marquitos270104: Set the weather to clear]
+[21:29:12] [Server thread/INFO]: green_destroyer has made the advancement [Stone Age]
+[21:29:48] [Server thread/INFO]: green_destroyer has made the advancement [Getting an Upgrade]
+[21:30:46] [Server thread/INFO]: Marquitos270104 has made the advancement [Stone Age]
+[21:31:40] [Server thread/INFO]: Marquitos270104 has made the advancement [Getting an Upgrade]
+[21:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[21:34:00] [Server thread/INFO]: [Marquitos270104: Set the weather to clear]
+[21:36:17] [Server thread/INFO]: green_destroyer has made the advancement [Monster Hunter]
+[21:38:24] [Server thread/INFO]: nicov[/181.228.7.17:50940] logged in with entity id 4332 at (-219.5, 67.0, -89.5)
+[21:38:24] [Server thread/INFO]: nicov joined the game
+[21:39:45] [Server thread/INFO]: [Marquitos270104: Set the weather to clear]
+[21:39:57] [Server thread/INFO]: [Marquitos270104: Gamerule doWeatherCycle is now set to: false]
+[21:40:32] [Server thread/INFO]: green_destroyer has made the advancement [Acquire Hardware]
+[21:40:56] [Server thread/INFO]: green_destroyer has made the advancement [Suit Up]
+[21:41:17] [Server thread/INFO]: green_destroyer has made the advancement [Not Today, Thank You]
+[21:41:19] [Server thread/INFO]: [Marquitos270104: Set the time to 1000]
+[21:41:54] [Server thread/INFO]: Marquitos270104 has made the advancement [Monster Hunter]
+[21:42:23] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4382440285480787705.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
+	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
+	at x.a(SourceFile:532) [server.jar:?]
+	at x.a(SourceFile:542) [server.jar:?]
+	at x.a(SourceFile:576) [server.jar:?]
+	at x.a(SourceFile:552) [server.jar:?]
+	at cyk.a(SourceFile:38) [server.jar:?]
+	at acu.b(SourceFile:350) [server.jar:?]
+	at acu.h(SourceFile:694) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3276/710394988.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[21:42:23] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4382440285480787705.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
+[21:42:23] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-4382440285480787705.dat, retrying 0/10
+[21:42:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-207, y=73, z=-111} fx{x=-225, y=68, z=-95}
+[21:42:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-207, y=73, z=-111} fx{x=-225, y=69, z=-95}
+[21:42:59] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[21:42:59] [Server thread/INFO]: green_destroyer left the game
+[21:43:01] [Server thread/INFO]: Stopping the server
+[21:43:01] [Server thread/INFO]: Stopping server
+[21:43:01] [Server thread/INFO]: Saving players
+[21:43:01] [Server thread/INFO]: Marquitos270104 lost connection: Disconnected
+[21:43:01] [Server thread/INFO]: Marquitos270104 left the game
+[21:43:01] [Server thread/INFO]: Saving worlds
+[21:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
