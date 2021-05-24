@@ -658,7 +658,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2021-05-23 00:53:03 -0300"
+      "tick": "2021-05-23 21:59:39 -0300"
     },
     "done": false
   },
@@ -1961,6 +1961,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-22 01:55:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-05-23 22:01:59 -0300"
     },
     "done": true
   },
