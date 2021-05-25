@@ -373,7 +373,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2021-05-23 21:16:07 -0300"
+      "tick": "2021-05-25 00:52:18 -0300"
     },
     "done": false
   },
@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-21 22:46:52 -0300"
@@ -554,6 +560,7 @@
       "minecraft:spider": "2021-05-21 22:39:55 -0300",
       "minecraft:creeper": "2021-05-21 21:36:17 -0300",
       "minecraft:slime": "2021-05-21 22:49:33 -0300",
+      "minecraft:zombified_piglin": "2021-05-25 01:27:33 -0300",
       "minecraft:cave_spider": "2021-05-23 00:15:05 -0300",
       "minecraft:piglin": "2021-05-23 17:13:16 -0300",
       "minecraft:enderman": "2021-05-22 14:29:22 -0300",
@@ -770,6 +777,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-05-22 02:25:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
     },
     "done": true
   },
@@ -1634,6 +1647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2021-05-25 00:57:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2021-05-21 23:16:47 -0300"
@@ -1649,6 +1668,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2021-05-22 21:53:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
     },
     "done": true
   },
@@ -2403,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2021-05-25 00:57:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-05-21 23:32:40 -0300"
@@ -2484,6 +2515,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-05-21 23:17:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
     },
     "done": true
   },
@@ -2619,6 +2656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-05-21 21:40:32 -0300"
@@ -2661,6 +2704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-21 21:35:29 -0300"
@@ -2682,6 +2731,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2021-05-23 19:35:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-25 00:57:40 -0300"
     },
     "done": true
   },
@@ -2742,6 +2797,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-05-23 15:21:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-05-25 00:30:52 -0300"
     },
     "done": true
   },
