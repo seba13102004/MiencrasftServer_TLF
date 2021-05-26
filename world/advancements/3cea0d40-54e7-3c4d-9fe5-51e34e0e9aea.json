@@ -373,7 +373,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2021-05-25 00:52:18 -0300"
+      "tick": "2021-05-26 16:55:12 -0300"
     },
     "done": false
   },
@@ -398,6 +398,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-05-22 14:56:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-05-26 15:45:07 -0300"
     },
     "done": true
   },
@@ -699,6 +705,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-22 14:26:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-05-26 13:12:16 -0300"
     },
     "done": true
   },
@@ -1460,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-05-26 16:31:33 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-05-21 21:28:38 -0300"
@@ -2068,6 +2086,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-05-26 16:24:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-05-21 22:34:31 -0300"
@@ -2413,6 +2437,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-05-21 23:44:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-05-26 13:12:16 -0300"
     },
     "done": true
   },
