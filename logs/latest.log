@@ -1,153 +1,42 @@
-[12:57:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:57:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:57:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:12] [main/INFO]: Reloading ResourceManager: Default, multiplayer_sleep_v1.0.1 (1).zip
-[12:57:13] [Worker-Main-12/INFO]: Loaded 7 recipes
-[12:57:14] [Worker-Main-12/INFO]: Loaded 931 advancements
-[12:57:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[12:57:15] [Server thread/INFO]: Loading properties
-[12:57:15] [Server thread/INFO]: Default game type: SURVIVAL
-[12:57:15] [Server thread/INFO]: Generating keypair
-[12:57:16] [Server thread/INFO]: Starting Minecraft server on *:3777
-[12:57:16] [Server thread/INFO]: Using default channel type
-[12:57:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:57:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:57:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:57:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:57:17] [Server thread/INFO]: Preparing level "world"
-[12:57:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:57:19] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:19] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:19] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:19] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:19] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:20] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:22] [Server thread/INFO]: Time elapsed: 4825 ms
-[12:57:22] [Server thread/INFO]: Done (5.089s)! For help, type "help"
-[12:58:32] [Server thread/INFO]: green_destroyer[/152.169.41.26:57961] logged in with entity id 55 at (-168.5933216444487, 59.0, 185.29967754296067)
-[12:58:32] [Server thread/INFO]: green_destroyer joined the game
-[12:58:43] [Server thread/WARN]: Trying to add entity with duplicated UUID 7c0fec1f-a712-42d7-b9a3-244aaa0668d4. Existing minecraft:strider#372, new: minecraft:strider#380
-[12:58:46] [Server thread/WARN]: Trying to add entity with duplicated UUID 14b69ff1-65f9-461d-b55c-af00ad34c77e. Existing minecraft:strider#409, new: minecraft:strider#439
-[12:59:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/553, l='ServerLevel[world]', x=-1253.94, y=86.00, z=1822.35]
-[12:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[13:02:24] [Server thread/ERROR]: Failed to rename
-java.nio.file.FileSystemException: .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-5018138748576917177.dat -> .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
-
-	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
-	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
-	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
-	at x.a(SourceFile:532) [server.jar:?]
-	at x.a(SourceFile:542) [server.jar:?]
-	at x.a(SourceFile:576) [server.jar:?]
-	at x.a(SourceFile:552) [server.jar:?]
-	at cyk.a(SourceFile:38) [server.jar:?]
-	at acu.b(SourceFile:350) [server.jar:?]
-	at acu.h(SourceFile:694) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:829) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3302/1984310211.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[13:02:24] [Server thread/WARN]: Failed to execute rename .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-5018138748576917177.dat to .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat
-[13:02:24] [Server thread/ERROR]: Failed to replace .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea.dat with .\world\playerdata\3cea0d40-54e7-3c4d-9fe5-51e34e0e9aea-5018138748576917177.dat, retrying 0/10
-[13:02:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
-[13:33:33] [Server thread/INFO]: green_destroyer lost connection: Disconnected
-[13:33:33] [Server thread/INFO]: green_destroyer left the game
-[13:47:27] [Server thread/ERROR]: Failed to rename
-java.nio.file.FileSystemException: .\world\level1470211313891670186.dat -> .\world\level.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
-
-	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
-	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
-	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
-	at x.a(SourceFile:532) [server.jar:?]
-	at x.a(SourceFile:542) [server.jar:?]
-	at x.a(SourceFile:576) [server.jar:?]
-	at x.a(SourceFile:552) [server.jar:?]
-	at cyg$a.a(SourceFile:359) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:574) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:830) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3302/1984310211.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[13:47:27] [Server thread/WARN]: Failed to execute rename .\world\level1470211313891670186.dat to .\world\level.dat
-[13:47:27] [Server thread/ERROR]: Failed to replace .\world\level.dat with .\world\level1470211313891670186.dat, retrying 0/10
-[14:27:27] [Server thread/ERROR]: Failed to rename
-java.nio.file.FileSystemException: .\world\level7115721330765595462.dat -> .\world\level.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
-
-	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
-	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
-	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
-	at x.a(SourceFile:532) [server.jar:?]
-	at x.a(SourceFile:542) [server.jar:?]
-	at x.a(SourceFile:576) [server.jar:?]
-	at x.a(SourceFile:552) [server.jar:?]
-	at cyg$a.a(SourceFile:359) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:574) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:830) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3302/1984310211.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[14:27:27] [Server thread/WARN]: Failed to execute rename .\world\level7115721330765595462.dat to .\world\level.dat
-[14:27:27] [Server thread/ERROR]: Failed to replace .\world\level.dat with .\world\level7115721330765595462.dat, retrying 0/10
-[14:32:27] [Server thread/ERROR]: Failed to rename
-java.nio.file.FileSystemException: .\world\level3191237845795349633.dat -> .\world\level.dat: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
-
-	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_45]
-	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_45]
-	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_45]
-	at x$2.getAsBoolean(SourceFile:467) [server.jar:?]
-	at x.a(SourceFile:532) [server.jar:?]
-	at x.a(SourceFile:542) [server.jar:?]
-	at x.a(SourceFile:576) [server.jar:?]
-	at x.a(SourceFile:552) [server.jar:?]
-	at cyg$a.a(SourceFile:359) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:574) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:830) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:670) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3302/1984310211.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[14:32:27] [Server thread/WARN]: Failed to execute rename .\world\level3191237845795349633.dat to .\world\level.dat
-[14:32:27] [Server thread/ERROR]: Failed to replace .\world\level.dat with .\world\level3191237845795349633.dat, retrying 0/10
-[15:14:53] [Server thread/INFO]: green_destroyer[/152.169.41.26:58522] logged in with entity id 8991 at (-1298.9872976050474, 66.0, 1777.8550201470855)
-[15:14:53] [Server thread/INFO]: green_destroyer joined the game
-[15:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
-[15:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
-[15:20:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1290, y=83, z=1828} fx{x=-1290, y=82, z=1829}
-[15:21:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1288, y=81, z=1802} fx{x=-1288, y=80, z=1803}
-[15:25:52] [Server thread/WARN]: green_destroyer moved too quickly! -9.32565238420679,3.164773281826065,2.2788689817747922
-[15:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9191ms or 183 ticks behind
-[15:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
-[15:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[16:24:50] [Server thread/INFO]: green_destroyer has made the advancement [What a Deal!]
-[16:39:01] [Server thread/INFO]: <green_destroyer> ººº
-[16:55:20] [Server thread/INFO]: green_destroyer lost connection: Disconnected
-[16:55:20] [Server thread/INFO]: green_destroyer left the game
-[17:05:04] [Server thread/INFO]: Stopping the server
-[17:05:04] [Server thread/INFO]: Stopping server
-[17:05:04] [Server thread/INFO]: Saving players
-[17:05:04] [Server thread/INFO]: Saving worlds
-[17:05:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:05:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:05:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:05:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:05:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:05:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:05:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:05:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:05:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:04:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:04:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:04:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:04:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:04:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:04:46] [main/INFO]: Reloading ResourceManager: Default, multiplayer_sleep_v1.0.1 (1).zip
+[02:04:46] [Worker-Main-12/INFO]: Loaded 7 recipes
+[02:04:46] [Worker-Main-12/INFO]: Loaded 931 advancements
+[02:04:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:04:47] [Server thread/INFO]: Loading properties
+[02:04:47] [Server thread/INFO]: Default game type: SURVIVAL
+[02:04:47] [Server thread/INFO]: Generating keypair
+[02:04:47] [Server thread/INFO]: Starting Minecraft server on *:3777
+[02:04:47] [Server thread/INFO]: Using default channel type
+[02:04:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:04:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:04:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:04:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:04:47] [Server thread/INFO]: Preparing level "world"
+[02:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:04:48] [Server thread/INFO]: Preparing spawn area: 0%
+[02:04:48] [Server thread/INFO]: Preparing spawn area: 0%
+[02:04:48] [Server thread/INFO]: Time elapsed: 970 ms
+[02:04:48] [Server thread/INFO]: Done (1.041s)! For help, type "help"
+[02:06:30] [Server thread/INFO]: green_destroyer[/127.0.0.1:52361] logged in with entity id 49 at (-1281.8353304597197, 83.0, 1817.0324310335097)
+[02:06:30] [Server thread/INFO]: green_destroyer joined the game
+[02:06:36] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[02:06:36] [Server thread/INFO]: green_destroyer left the game
+[02:10:43] [Server thread/INFO]: Stopping the server
+[02:10:44] [Server thread/INFO]: Stopping server
+[02:10:44] [Server thread/INFO]: Saving players
+[02:10:44] [Server thread/INFO]: Saving worlds
+[02:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:10:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:10:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:10:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:10:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:10:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:10:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
