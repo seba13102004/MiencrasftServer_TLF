@@ -1,43 +1,142 @@
-[15:21:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:21:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:21:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:21:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:21:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:21:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:21:13] [main/INFO]: Reloading ResourceManager: Default, multiplayer_sleep_v1.0.1 (1).zip
-[15:21:13] [Worker-Main-14/INFO]: Loaded 7 recipes
-[15:21:14] [Worker-Main-14/INFO]: Loaded 931 advancements
-[15:21:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[15:21:14] [Server thread/INFO]: Loading properties
-[15:21:14] [Server thread/INFO]: Default game type: SURVIVAL
-[15:21:14] [Server thread/INFO]: Generating keypair
-[15:21:15] [Server thread/INFO]: Starting Minecraft server on *:3778
-[15:21:15] [Server thread/INFO]: Using default channel type
-[15:21:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:21:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:21:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:21:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:21:15] [Server thread/INFO]: Preparing level "world"
-[15:21:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:21:16] [Server thread/INFO]: Preparing spawn area: 0%
-[15:21:16] [Server thread/INFO]: Preparing spawn area: 0%
-[15:21:16] [Server thread/INFO]: Preparing spawn area: 61%
-[15:21:16] [Server thread/INFO]: Time elapsed: 1149 ms
-[15:21:16] [Server thread/INFO]: Done (1.235s)! For help, type "help"
-[15:21:39] [Server thread/INFO]: Tatan[/200.124.108.105:64593] logged in with entity id 51 at (-1275.473630883501, 60.53703664734953, 2114.5301081018556)
-[15:21:39] [Server thread/INFO]: Tatan joined the game
-[15:21:43] [Server thread/INFO]: Tatan lost connection: Disconnected
-[15:21:43] [Server thread/INFO]: Tatan left the game
-[15:22:19] [Server thread/INFO]: Stopping the server
-[15:22:19] [Server thread/INFO]: Stopping server
-[15:22:19] [Server thread/INFO]: Saving players
-[15:22:19] [Server thread/INFO]: Saving worlds
-[15:22:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:22:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:22:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:22:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:22:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:22:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:22:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:22:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:22:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:33:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:33:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:25] [main/INFO]: Reloading ResourceManager: Default, multiplayer_sleep_v1.0.1 (1).zip
+[15:33:25] [Worker-Main-9/INFO]: Loaded 7 recipes
+[15:33:25] [Worker-Main-9/INFO]: Loaded 931 advancements
+[15:33:26] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:33:26] [Server thread/INFO]: Loading properties
+[15:33:26] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:26] [Server thread/INFO]: Generating keypair
+[15:33:26] [Server thread/INFO]: Starting Minecraft server on *:3778
+[15:33:26] [Server thread/INFO]: Using default channel type
+[15:33:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:33:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:33:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:33:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:33:26] [Server thread/INFO]: Preparing level "world"
+[15:33:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:33:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:33:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:33:27] [Server thread/INFO]: Time elapsed: 894 ms
+[15:33:27] [Server thread/INFO]: Done (0.960s)! For help, type "help"
+[15:35:05] [Server thread/INFO]: VittoCorleone[/200.122.70.245:64089] logged in with entity id 51 at (-222.5, 67.0, -88.5)
+[15:35:05] [Server thread/INFO]: VittoCorleone joined the game
+[15:35:10] [Server thread/INFO]: green_destroyer[/127.0.0.1:65439] logged in with entity id 653 at (-1283.7256363964045, 83.0, 1819.1925808829926)
+[15:35:10] [Server thread/INFO]: green_destroyer joined the game
+[15:35:47] [Server thread/INFO]: Made green_destroyer a server operator
+[15:36:35] [Server thread/INFO]: VittoCorleone fell from a high place
+[15:37:01] [Server thread/INFO]: [green_destroyer: Teleported VittoCorleone to green_destroyer]
+[15:38:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[15:38:34] [Server thread/INFO]: VittoCorleone has made the advancement [Isn't It Iron Pick]
+[15:38:39] [Server thread/INFO]: VittoCorleone has made the advancement [Acquire Hardware]
+[15:38:48] [Server thread/INFO]: VittoCorleone has made the advancement [Suit Up]
+[15:39:43] [Server thread/INFO]: VittoCorleone has made the advancement [The Parrots and the Bats]
+[15:40:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Carrot'/4241, l='ServerLevel[world]', x=-1232.68, y=67.41, z=1950.66]
+[15:42:23] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[15:42:23] [Server thread/INFO]: green_destroyer left the game
+[15:45:00] [Server thread/INFO]: VittoCorleone has made the advancement [We Need to Go Deeper]
+[15:48:44] [Server thread/INFO]: VittoCorleone has made the advancement [Monster Hunter]
+[15:52:50] [Server thread/INFO]: VittoCorleone has made the advancement [Enchanter]
+[15:53:37] [Server thread/INFO]: VittoCorleone has made the advancement [Stone Age]
+[15:56:23] [Server thread/INFO]: green_destroyer[/127.0.0.1:65518] logged in with entity id 8700 at (-1284.4209578494049, 83.0, 1818.4156497080621)
+[15:56:23] [Server thread/INFO]: green_destroyer joined the game
+[15:56:35] [Server thread/INFO]: <green_destroyer> ;ldjawdjwad;l
+[15:56:36] [Server thread/INFO]: <green_destroyer> DS
+[15:57:14] [Server thread/INFO]: <green_destroyer> eu
+[15:57:15] [Server thread/INFO]: <green_destroyer> ei
+[16:02:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:02:02] [Server thread/INFO]: hard<--[HERE]
+[16:02:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:02:09] [Server thread/INFO]: /difficult hard<--[HERE]
+[16:02:28] [Server thread/INFO]: [green_destroyer: The difficulty has been set to Hard]
+[16:07:20] [Server thread/INFO]: [green_destroyer: Set the weather to clear]
+[16:07:26] [Server thread/INFO]: VittoCorleone has made the advancement [Sweet Dreams]
+[16:12:34] [Server thread/INFO]: VittoCorleone has made the advancement [Local Brewery]
+[16:16:39] [Server thread/INFO]: <green_destroyer> -1221 68 1927
+[16:18:06] [Server thread/INFO]: <VittoCorleone> 152.625/8.5/240.875
+[16:18:32] [Server thread/WARN]: VittoCorleone moved too quickly! -8.364542186207245,0.756759288177264,5.768920959560546
+[16:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[16:23:32] [Server thread/INFO]: [green_destroyer: Set the weather to clear]
+[16:24:50] [Server thread/INFO]: VittoCorleone has made the advancement [A Seedy Place]
+[16:28:11] [Server thread/INFO]: <VittoCorleone> -178 89 221
+[16:28:33] [Server thread/WARN]: VittoCorleone moved too quickly! 2.828945331237094,1.252203340253729,-9.579332272589482
+[16:29:50] [Server thread/INFO]: VittoCorleone has made the advancement [Take Aim]
+[16:31:14] [Server thread/INFO]: VittoCorleone has completed the challenge [Hot Tourist Destinations]
+[16:31:53] [Server thread/INFO]: VittoCorleone was slain by Enderman
+[16:32:10] [Server thread/INFO]: [green_destroyer: Teleported VittoCorleone to green_destroyer]
+[16:33:38] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[16:33:38] [Server thread/INFO]: green_destroyer left the game
+[16:33:50] [Server thread/INFO]: green_destroyer[/127.0.0.1:49295] logged in with entity id 20619 at (-164.58415254184467, 26.71890629087959, -49.18402097251371)
+[16:33:50] [Server thread/INFO]: green_destroyer joined the game
+[16:33:58] [Server thread/INFO]: green_destroyer tried to swim in lava
+[16:35:14] [Server thread/INFO]: [green_destroyer: Teleported green_destroyer to VittoCorleone]
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:35:14] [Server thread/WARN]: green_destroyer moved too quickly! 29.443097447401414,-43.0,-291.607240500396
+[16:39:55] [Server thread/INFO]: VittoCorleone was slain by Magma Cube
+[16:40:17] [Server thread/INFO]: [green_destroyer: Teleported VittoCorleone to green_destroyer]
+[16:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[16:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:51:41] [Server thread/WARN]: VittoCorleone moved wrongly!
+[16:56:42] [Server thread/INFO]: VittoCorleone was slain by Enderman
+[16:56:55] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[16:56:55] [Server thread/INFO]: VittoCorleone left the game
+[16:56:58] [Server thread/INFO]: VittoCorleone[/200.122.70.245:64315] logged in with entity id 32970 at (-1238.1300223606324, 68.0, 1905.5700479258394)
+[16:56:58] [Server thread/INFO]: VittoCorleone joined the game
+[16:58:53] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[16:58:53] [Server thread/INFO]: VittoCorleone left the game
+[16:58:58] [Server thread/INFO]: VittoCorleone[/200.122.70.245:64332] logged in with entity id 33777 at (-152.87512808375982, 89.0, 238.3661210543438)
+[16:58:58] [Server thread/INFO]: VittoCorleone joined the game
+[16:59:03] [Server thread/INFO]: VittoCorleone burned to death
+[16:59:05] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[16:59:05] [Server thread/INFO]: VittoCorleone left the game
+[16:59:07] [Server thread/INFO]: VittoCorleone[/200.122.70.245:64343] logged in with entity id 33799 at (-152.87512808375982, 89.0, 238.3661210543438)
+[16:59:07] [Server thread/INFO]: VittoCorleone joined the game
+[16:59:54] [Server thread/INFO]: VittoCorleone lost connection: Timed out
+[16:59:54] [Server thread/INFO]: VittoCorleone left the game
+[16:59:56] [Server thread/INFO]: VittoCorleone[/200.122.70.245:64350] logged in with entity id 34770 at (-152.9246590197741, 89.0, 235.6779767732242)
+[16:59:56] [Server thread/INFO]: VittoCorleone joined the game
+[17:04:37] [Server thread/INFO]: [green_destroyer: Teleported VittoCorleone to green_destroyer]
+[17:04:37] [Server thread/WARN]: VittoCorleone moved too quickly! 49.844491690715046,-6.166109260938214,26.348375262811857
+[17:09:12] [Server thread/INFO]: green_destroyer has made the advancement [Those Were the Days]
+[17:09:12] [Server thread/INFO]: VittoCorleone has made the advancement [Those Were the Days]
+[17:09:17] [Server thread/INFO]: VittoCorleone was slain by Piglin Brute
+[17:09:51] [Server thread/INFO]: [green_destroyer: Teleported VittoCorleone to green_destroyer]
+[17:14:04] [Server thread/INFO]: green_destroyer has made the advancement [War Pigs]
+[17:14:06] [Server thread/INFO]: VittoCorleone has made the advancement [War Pigs]
+[17:14:15] [Server thread/INFO]: VittoCorleone has made the advancement [Ice Bucket Challenge]
+[17:16:44] [Server thread/INFO]: green_destroyer has completed the challenge [Hot Tourist Destinations]
+[17:16:55] [Server thread/INFO]: [green_destroyer: Teleported VittoCorleone to green_destroyer]
+[17:38:39] [Server thread/WARN]: VittoCorleone moved too quickly! -2.254858511723114,-0.1647732818260721,9.91629724634754
+[17:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[17:47:32] [Server thread/INFO]: green_destroyer burned to death
+[17:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[17:49:27] [Server thread/INFO]: VittoCorleone has made the advancement [Diamonds!]
+[17:53:43] [Server thread/WARN]: VittoCorleone moved too quickly! 8.60302079628309,-0.7287758923075103,-5.644091881630402
+[17:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17:57:41] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[17:57:41] [Server thread/INFO]: VittoCorleone left the game
+[18:34:35] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[18:34:35] [Server thread/INFO]: green_destroyer left the game
+[18:34:42] [Server thread/INFO]: Stopping the server
+[18:34:42] [Server thread/INFO]: Stopping server
+[18:34:42] [Server thread/INFO]: Saving players
+[18:34:42] [Server thread/INFO]: Saving worlds
+[18:34:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:34:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:34:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:34:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:34:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:34:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:34:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:34:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:34:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
