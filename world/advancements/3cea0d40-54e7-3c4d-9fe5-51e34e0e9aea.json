@@ -455,17 +455,17 @@
     },
     "done": true
   },
-  "multiplayer_sleep:sleep": {
-    "criteria": {
-      "tick": "2021-05-28 03:08:49 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2021-05-28 02:15:23 -0300"
     },
     "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2021-05-28 17:05:55 -0300"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
