@@ -1,46 +1,100 @@
-[17:23:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:23:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:23:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:23:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:23:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:23:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:23:15] [main/INFO]: Reloading ResourceManager: Default, multiplayer_sleep_v1.0.1 (1).zip
-[17:23:16] [Worker-Main-11/INFO]: Loaded 7 recipes
-[17:23:16] [Worker-Main-11/INFO]: Loaded 931 advancements
-[17:23:17] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:23:17] [Server thread/INFO]: Loading properties
-[17:23:17] [Server thread/INFO]: Default game type: SURVIVAL
-[17:23:17] [Server thread/INFO]: Generating keypair
-[17:23:17] [Server thread/INFO]: Starting Minecraft server on *:3778
-[17:23:17] [Server thread/INFO]: Using default channel type
-[17:23:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:23:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:23:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:23:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:23:17] [Server thread/INFO]: Preparing level "world"
-[17:23:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:23:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:23:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:23:18] [Server thread/INFO]: Time elapsed: 1026 ms
-[17:23:18] [Server thread/INFO]: Done (1.089s)! For help, type "help"
-[17:24:42] [Server thread/INFO]: green_destroyer[/127.0.0.1:50669] logged in with entity id 48 at (-1283.6273976517573, 83.0, 1817.957683536628)
-[17:24:42] [Server thread/INFO]: green_destroyer joined the game
-[17:25:01] [Server thread/INFO]: green_destroyer lost connection: Disconnected
-[17:25:01] [Server thread/INFO]: green_destroyer left the game
-[17:25:47] [Server thread/INFO]: green_destroyer[/127.0.0.1:50863] logged in with entity id 927 at (-1283.6273976517573, 83.0, 1817.957683536628)
-[17:25:47] [Server thread/INFO]: green_destroyer joined the game
-[17:31:00] [Server thread/INFO]: green_destroyer lost connection: Disconnected
-[17:31:00] [Server thread/INFO]: green_destroyer left the game
-[17:31:05] [Server thread/INFO]: Stopping the server
-[17:31:05] [Server thread/INFO]: Stopping server
-[17:31:05] [Server thread/INFO]: Saving players
-[17:31:05] [Server thread/INFO]: Saving worlds
-[17:31:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:31:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:31:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:38:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:38:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:38:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:38:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:38:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:38:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:38:31] [main/INFO]: Reloading ResourceManager: Default, multiplayer_sleep_v1.0.1 (1).zip
+[17:38:32] [Worker-Main-14/INFO]: Loaded 7 recipes
+[17:38:32] [Worker-Main-14/INFO]: Loaded 931 advancements
+[17:38:33] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:38:33] [Server thread/INFO]: Loading properties
+[17:38:33] [Server thread/INFO]: Default game type: SURVIVAL
+[17:38:33] [Server thread/INFO]: Generating keypair
+[17:38:33] [Server thread/INFO]: Starting Minecraft server on *:3778
+[17:38:33] [Server thread/INFO]: Using default channel type
+[17:38:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:38:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:38:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:38:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:38:33] [Server thread/INFO]: Preparing level "world"
+[17:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:38:34] [Server thread/INFO]: Preparing spawn area: 0%
+[17:38:34] [Server thread/INFO]: Preparing spawn area: 0%
+[17:38:34] [Server thread/INFO]: Preparing spawn area: 96%
+[17:38:34] [Server thread/INFO]: Time elapsed: 1013 ms
+[17:38:34] [Server thread/INFO]: Done (1.071s)! For help, type "help"
+[17:39:00] [Server thread/INFO]: VittoCorleone[/200.122.70.245:58946] logged in with entity id 48 at (-1233.5925667725917, 68.0, 1907.1956256916512)
+[17:39:00] [Server thread/INFO]: VittoCorleone joined the game
+[17:39:39] [Server thread/INFO]: green_destroyer[/127.0.0.1:50065] logged in with entity id 1008 at (-1283.6273976517573, 83.0, 1817.957683536628)
+[17:39:39] [Server thread/INFO]: green_destroyer joined the game
+[17:39:39] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[17:39:39] [Server thread/INFO]: VittoCorleone left the game
+[17:41:16] [Server thread/INFO]: PlutonGBI[/181.228.116.77:59723] logged in with entity id 1529 at (170.5029933087762, 54.17675927506424, 416.26884210102264)
+[17:41:16] [Server thread/INFO]: PlutonGBI joined the game
+[17:41:22] [Server thread/INFO]: VittoCorleone[/200.122.70.245:59125] logged in with entity id 1838 at (-1237.036290181668, 68.0, 1906.6599660260567)
+[17:41:22] [Server thread/INFO]: VittoCorleone joined the game
+[17:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[17:42:07] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[17:42:07] [Server thread/INFO]: VittoCorleone left the game
+[17:43:39] [Server thread/WARN]: green_destroyer moved too quickly! 6.391050447366069,5.068476154729268,6.563849691139012
+[17:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[17:49:47] [Server thread/INFO]: [green_destroyer: Set the weather to clear]
+[17:50:17] [Server thread/INFO]: VittoCorleone[/200.122.70.245:59750] logged in with entity id 6953 at (-1232.7703594692932, 68.96636804164123, 1908.0710267486807)
+[17:50:17] [Server thread/INFO]: VittoCorleone joined the game
+[17:50:43] [Server thread/INFO]: VittoCorleone lost connection: Timed out
+[17:50:43] [Server thread/INFO]: VittoCorleone left the game
+[17:53:28] [Server thread/INFO]: VittoCorleone[/200.122.70.245:60088] logged in with entity id 8100 at (-1232.7703594692932, 68.96636804164123, 1908.0710267486807)
+[17:53:28] [Server thread/INFO]: VittoCorleone joined the game
+[18:00:21] [Server thread/INFO]: Villager bfj['Librarian'/243, l='ServerLevel[world]', x=-1312.30, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:00:35] [Server thread/INFO]: [green_destroyer: The difficulty has been set to Hard]
+[18:02:44] [Server thread/INFO]: PlutonGBI lost connection: Disconnected
+[18:02:44] [Server thread/INFO]: PlutonGBI left the game
+[18:03:32] [Server thread/INFO]: PlutonGBI[/181.228.116.77:57883] logged in with entity id 12008 at (1198.699999988079, 59.53584062504456, 4743.396016808569)
+[18:03:32] [Server thread/INFO]: PlutonGBI joined the game
+[18:05:35] [Server thread/INFO]: Villager bfj['Librarian'/242, l='ServerLevel[world]', x=-1310.30, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:06:08] [Server thread/INFO]: PlutonGBI lost connection: Disconnected
+[18:06:08] [Server thread/INFO]: PlutonGBI left the game
+[18:06:32] [Server thread/INFO]: PlutonGBI[/181.228.116.77:53077] logged in with entity id 14137 at (1188.699999988079, 69.9375, 4755.1376267978285)
+[18:06:32] [Server thread/INFO]: PlutonGBI joined the game
+[18:06:38] [Server thread/INFO]: Villager bfj['Librarian'/245, l='ServerLevel[world]', x=-1314.30, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:07:20] [Server thread/INFO]: Villager bfj['Librarian'/246, l='ServerLevel[world]', x=-1312.30, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:08:20] [Server thread/INFO]: PlutonGBI lost connection: Disconnected
+[18:08:20] [Server thread/INFO]: PlutonGBI left the game
+[18:09:47] [Server thread/INFO]: PlutonGBI[/181.228.116.77:64633] logged in with entity id 15930 at (1191.3557162906964, 72.0, 4736.449235663107)
+[18:09:47] [Server thread/INFO]: PlutonGBI joined the game
+[18:14:03] [Server thread/INFO]: VittoCorleone lost connection: Disconnected
+[18:14:03] [Server thread/INFO]: VittoCorleone left the game
+[18:14:05] [Server thread/INFO]: VittoCorleone[/200.122.70.245:61728] logged in with entity id 18285 at (-1235.43276502651, 68.0, 1909.2704310011864)
+[18:14:05] [Server thread/INFO]: VittoCorleone joined the game
+[18:14:25] [Server thread/INFO]: Villager bfj['Librarian'/17286, l='ServerLevel[world]', x=-1312.70, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:14:40] [Server thread/INFO]: Villager bfj['Librarian'/17295, l='ServerLevel[world]', x=-1310.70, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:16:09] [Server thread/INFO]: Villager bfj['Librarian'/17566, l='ServerLevel[world]', x=-1314.30, y=65.00, z=1772.30] died, message: 'Librarian was slain by Jose Luis'
+[18:17:03] [Server thread/INFO]: PlutonGBI lost connection: Disconnected
+[18:17:03] [Server thread/INFO]: PlutonGBI left the game
+[18:26:49] [Server thread/WARN]: VittoCorleone moved too quickly! -4.720842996843885,1.2491870787446828,8.78202939689595
+[18:28:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[18:35:26] [Server thread/INFO]: VittoCorleone was slain by Zombie
+[18:36:24] [Server thread/INFO]: VittoCorleone lost connection: Timed out
+[18:36:24] [Server thread/INFO]: VittoCorleone left the game
+[18:38:01] [Server thread/INFO]: green_destroyer fell from a high place
+[18:38:14] [Server thread/INFO]: [green_destroyer: Set own game mode to Creative Mode]
+[18:39:07] [Server thread/INFO]: [green_destroyer: Set own game mode to Survival Mode]
+[18:49:03] [Server thread/INFO]: [green_destroyer: Set own game mode to Adventure Mode]
+[18:49:13] [Server thread/INFO]: [green_destroyer: Set own game mode to Creative Mode]
+[18:49:32] [Server thread/INFO]: [green_destroyer: Set own game mode to Survival Mode]
+[18:50:34] [Server thread/INFO]: green_destroyer lost connection: Disconnected
+[18:50:34] [Server thread/INFO]: green_destroyer left the game
+[18:50:40] [Server thread/INFO]: Stopping the server
+[18:50:40] [Server thread/INFO]: Stopping server
+[18:50:40] [Server thread/INFO]: Saving players
+[18:50:40] [Server thread/INFO]: Saving worlds
+[18:50:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:50:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
