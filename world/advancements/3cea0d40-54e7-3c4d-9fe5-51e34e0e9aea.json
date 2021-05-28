@@ -409,7 +409,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2021-05-27 18:34:00 -0300"
+      "tick": "2021-05-27 20:50:49 -0300"
     },
     "done": false
   },
@@ -618,6 +618,12 @@
       "minecraft:zombie_villager": "2021-05-23 19:44:03 -0300"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-05-27 21:13:45 -0300"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1618,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-05-27 21:13:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-21 21:35:29 -0300"
@@ -1630,9 +1642,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-05-27 21:18:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2021-05-22 02:25:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-05-27 21:13:45 -0300"
     },
     "done": true
   },
@@ -1740,6 +1764,7 @@
       "baked_potato": "2021-05-22 14:34:07 -0300",
       "mutton": "2021-05-21 21:32:23 -0300",
       "suspicious_stew": "2021-05-21 23:02:21 -0300",
+      "golden_carrot": "2021-05-27 21:25:10 -0300",
       "cooked_chicken": "2021-05-21 22:43:38 -0300",
       "cooked_salmon": "2021-05-22 00:52:42 -0300"
     },
